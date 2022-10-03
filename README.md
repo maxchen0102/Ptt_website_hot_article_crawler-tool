@@ -7,8 +7,8 @@
 - [PPT熱門文章取得工具爬蟲](#PPT熱門文章取得工具爬蟲)
     - [程式主要目標以及預期成果](#程式主要目標以及預期成果)
     -   [檔案結構🛠](#檔案結構)
-    -    [setting.py 參數檔案設定 🛠](#settingpy-參數檔案設定-🛠)
-    -    [程式碼說明](#程式碼說明")
+    -    [setting.py 參數檔案設定 🛠](#settingpy參數檔案設定)
+    -    [程式碼說明](#程式碼說明)
 
 
 
@@ -39,7 +39,7 @@ https://medium.com/qiubingcheng/%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%9Danaconda-%E4
 ![](https://i.imgur.com/qpXYWpw.png)
 
 
-## setting.py 參數檔案設定 🛠
+## setting.py參數檔案設定
 打開檔案後，小弟有把相關參數的註解下下來 ，
 相關參數功能，可以參考註解上的內容，然後這個setting.py檔案會被main.py 主程式引入做說鞥
 ```python=
